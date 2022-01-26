@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath rapidapipractice rapidapipractice.wsgi 
+web: gunicorn rapidapipractice.wsgi 
